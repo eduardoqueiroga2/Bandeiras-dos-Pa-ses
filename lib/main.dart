@@ -12,7 +12,7 @@ class MyApp extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return MaterialApp(
-      title: "Bandeiras dos Países - ",
+      title: "Bandeiras dos Países",
       home: Scaffold(
         appBar: AppBar(
           title: Center(
